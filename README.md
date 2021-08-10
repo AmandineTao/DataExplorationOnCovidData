@@ -1,2 +1,2 @@
 # DataExplorationOnCovidData
-SQL.
+SQL. Deaths, Vaccinations, news cases, etc.
