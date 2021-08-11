@@ -1,3 +1,3 @@
 # DataExplorationOnCovidData
 SQL. 
-Deaths, Vaccinations, news cases, etc.
+Deaths, Vaccinations, news cases,...
